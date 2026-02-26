@@ -1,4 +1,4 @@
-// min_windows_pipes.c
+// /OpSysPA1.exe.c
 //gcc -Wall -Wextra -O2 OpSysPA1.c -o OpSysPA1.exe
 //./OpSysPA1.exe
 
